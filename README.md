@@ -43,7 +43,7 @@ You will be working in the `apple-pie` folder. There you will find all the files
 
 Please find a screenshot of the expected results below:
 
-![Apple Pie](https://i.imgur.com/lGGM68Q.jpg)
+![Apple Pie)
 
 <!-- ![French Onion](https://i.imgur.com/uepu2DO.jpg) -->
 
